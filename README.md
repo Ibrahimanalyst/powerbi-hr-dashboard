@@ -1,4 +1,4 @@
-# powerbi-hr-dashboard
+# HR Dashboard
 
 🚀 Simplifying HR Insights with Power BI
 
